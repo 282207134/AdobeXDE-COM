@@ -1,0 +1,37 @@
+import '../data/catalog.dart';
+
+enum AppScreen {
+  welcome,
+  signup,
+  verification,
+  home,
+  homeScroll,
+  categories,
+  brand,
+  filter,
+  filterExpanded,
+  search,
+  suggestions,
+  imageSearch,
+  imageResults,
+  imageResultDetail,
+  product,
+  reviews,
+  cart,
+  delivery,
+  address,
+  payment,
+  summary,
+  success,
+  profile,
+  orders,
+  tracking,
+  trackingMap,
+  cards,
+  addCard,
+  addresses,
+  wishlist,
+  editProfile,
+}
+
+typedef Navigate = void Function(AppScreen screen, {Product? product});

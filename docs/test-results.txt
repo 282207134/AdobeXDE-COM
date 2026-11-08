@@ -1,0 +1,11 @@
+00:00 +0: loading C:/Users/liuyu/Desktop/AdobeXDE-COM/test/state_test.dart
+00:00 +0: C:/Users/liuyu/Desktop/AdobeXDE-COM/test/state_test.dart: quantity, voucher and checkout totals remain consistent
+00:00 +1: C:/Users/liuyu/Desktop/AdobeXDE-COM/test/state_test.dart: saved state restores cart, appearance, favorites and masked card
+00:00 +2: C:/Users/liuyu/Desktop/AdobeXDE-COM/test/state_test.dart: card form rejects malformed and expired input
+00:00 +3: loading C:/Users/liuyu/Desktop/AdobeXDE-COM/test/store_test.dart
+00:00 +3: C:/Users/liuyu/Desktop/AdobeXDE-COM/test/store_test.dart: (setUpAll)
+00:00 +3: C:/Users/liuyu/Desktop/AdobeXDE-COM/test/store_test.dart: all screens fit a compact phone in light theme
+00:03 +4: C:/Users/liuyu/Desktop/AdobeXDE-COM/test/store_test.dart: all screens fit a compact phone in dark theme
+00:04 +5: C:/Users/liuyu/Desktop/AdobeXDE-COM/test/store_test.dart: login, search and purchase demo complete through visible controls
+00:05 +6: C:/Users/liuyu/Desktop/AdobeXDE-COM/test/store_test.dart: (tearDownAll)
+00:05 +6: All tests passed!

@@ -1,0 +1,1948 @@
+[
+  {
+    "id": "0:5",
+    "name": "Welcome",
+    "texts": [
+      {
+        "id": "0:8",
+        "text": "Sign in to Continue"
+      },
+      {
+        "id": "0:9",
+        "text": "Welcome"
+      },
+      {
+        "id": "0:23",
+        "text": "SIGN IN"
+      },
+      {
+        "id": "0:11",
+        "text": "Forgot Password?"
+      },
+      {
+        "id": "0:13",
+        "text": "Password"
+      },
+      {
+        "id": "0:16",
+        "text": "iamjohn@gmail.com"
+      },
+      {
+        "id": "0:17",
+        "text": "Email"
+      },
+      {
+        "id": "0:34",
+        "text": "-OR-"
+      },
+      {
+        "id": "0:40",
+        "text": "Sign In with Google"
+      },
+      {
+        "id": "0:46",
+        "text": "Sign In with Facebook"
+      }
+    ]
+  },
+  {
+    "id": "0:49",
+    "name": "Sign Up",
+    "texts": [
+      {
+        "id": "0:52",
+        "text": "Sign Up"
+      },
+      {
+        "id": "0:69",
+        "text": "SIGN UP"
+      },
+      {
+        "id": "0:54",
+        "text": "Forgot Password?"
+      },
+      {
+        "id": "0:56",
+        "text": "Password"
+      },
+      {
+        "id": "0:60",
+        "text": "iamdavid@gmail.com"
+      },
+      {
+        "id": "0:61",
+        "text": "Johnathan Smith"
+      },
+      {
+        "id": "0:62",
+        "text": "Email"
+      },
+      {
+        "id": "0:63",
+        "text": "Name"
+      }
+    ]
+  },
+  {
+    "id": "0:81",
+    "name": "Email Verification",
+    "texts": [
+      {
+        "id": "0:93",
+        "text": "SUBMIT"
+      },
+      {
+        "id": "0:85",
+        "text": "A 6 - Digit PIN has been sent to your email address, enter it below to continue"
+      },
+      {
+        "id": "0:86",
+        "text": "Verification"
+      }
+    ]
+  },
+  {
+    "id": "0:101",
+    "name": "Home",
+    "texts": [
+      {
+        "id": "0:109",
+        "text": "$450"
+      },
+      {
+        "id": "0:110",
+        "text": "Tag Heuer"
+      },
+      {
+        "id": "0:111",
+        "text": "Leather Wristwatch"
+      },
+      {
+        "id": "0:114",
+        "text": "$755"
+      },
+      {
+        "id": "0:115",
+        "text": "Bang and Olufsen"
+      },
+      {
+        "id": "0:116",
+        "text": "BeoPlay Speaker"
+      },
+      {
+        "id": "0:118",
+        "text": "See all"
+      },
+      {
+        "id": "0:119",
+        "text": "Best Selling"
+      },
+      {
+        "id": "0:126",
+        "text": "Gaming"
+      },
+      {
+        "id": "0:136",
+        "text": "Gadgets"
+      },
+      {
+        "id": "0:149",
+        "text": "Devices"
+      },
+      {
+        "id": "0:157",
+        "text": "Women"
+      },
+      {
+        "id": "0:168",
+        "text": "Men"
+      },
+      {
+        "id": "0:125",
+        "text": "Categories"
+      },
+      {
+        "id": "0:178",
+        "text": "Search for anything..."
+      },
+      {
+        "id": "0:201",
+        "text": "Home"
+      }
+    ]
+  },
+  {
+    "id": "0:205",
+    "name": "Home – Scroll",
+    "texts": [
+      {
+        "id": "0:216",
+        "text": "$450"
+      },
+      {
+        "id": "0:217",
+        "text": "Tag Heuer"
+      },
+      {
+        "id": "0:218",
+        "text": "Leather Wristwatch"
+      },
+      {
+        "id": "0:221",
+        "text": "$755"
+      },
+      {
+        "id": "0:222",
+        "text": "Bang and Olufsen"
+      },
+      {
+        "id": "0:223",
+        "text": "BeoPlay Speaker"
+      },
+      {
+        "id": "0:225",
+        "text": "See all"
+      },
+      {
+        "id": "0:226",
+        "text": "Best Selling"
+      },
+      {
+        "id": "0:229",
+        "text": "See all"
+      },
+      {
+        "id": "0:230",
+        "text": "Featured Products"
+      },
+      {
+        "id": "0:231",
+        "text": "See all"
+      },
+      {
+        "id": "0:232",
+        "text": "Featured Products"
+      },
+      {
+        "id": "0:234",
+        "text": "1124 Products"
+      },
+      {
+        "id": "0:235",
+        "text": "Beats"
+      },
+      {
+        "id": "0:238",
+        "text": "5693 Products"
+      },
+      {
+        "id": "0:239",
+        "text": "B&o"
+      },
+      {
+        "id": "0:249",
+        "text": "$450"
+      },
+      {
+        "id": "0:250",
+        "text": "Google LLC"
+      },
+      {
+        "id": "0:251",
+        "text": "Bluetooth Speaker"
+      },
+      {
+        "id": "0:253",
+        "text": "$755"
+      },
+      {
+        "id": "0:254",
+        "text": "Smart Inc"
+      },
+      {
+        "id": "0:255",
+        "text": "Smart Luggage"
+      },
+      {
+        "id": "0:260",
+        "text": "New"
+      },
+      {
+        "id": "0:262",
+        "text": "$450"
+      },
+      {
+        "id": "0:263",
+        "text": "Bang and Olufsen"
+      },
+      {
+        "id": "0:264",
+        "text": "B&o Phone Case"
+      },
+      {
+        "id": "0:266",
+        "text": "$755"
+      },
+      {
+        "id": "0:267",
+        "text": "Bang and Olufsen"
+      },
+      {
+        "id": "0:268",
+        "text": "Stand Speaker"
+      },
+      {
+        "id": "0:273",
+        "text": "New"
+      },
+      {
+        "id": "0:291",
+        "text": "Home"
+      }
+    ]
+  },
+  {
+    "id": "0:407",
+    "name": "Categories",
+    "texts": [
+      {
+        "id": "0:423",
+        "text": "Gadgets"
+      },
+      {
+        "id": "0:440",
+        "text": "See all"
+      },
+      {
+        "id": "0:441",
+        "text": "Top Products"
+      },
+      {
+        "id": "0:442",
+        "text": "See all"
+      },
+      {
+        "id": "0:443",
+        "text": "New Launches"
+      },
+      {
+        "id": "0:446",
+        "text": "563 Products"
+      },
+      {
+        "id": "0:447",
+        "text": "B&o"
+      },
+      {
+        "id": "0:449",
+        "text": "56 Products"
+      },
+      {
+        "id": "0:450",
+        "text": "Apple Inc"
+      },
+      {
+        "id": "0:464",
+        "text": "$450"
+      },
+      {
+        "id": "0:465",
+        "text": "Bang and Olufsen"
+      },
+      {
+        "id": "0:466",
+        "text": "B&o Desk Lamp"
+      },
+      {
+        "id": "0:468",
+        "text": "$755"
+      },
+      {
+        "id": "0:469",
+        "text": "Bang and Olufsen"
+      },
+      {
+        "id": "0:470",
+        "text": "BeoPlay Speaker"
+      },
+      {
+        "id": "0:476",
+        "text": "New"
+      },
+      {
+        "id": "0:478",
+        "text": "New"
+      },
+      {
+        "id": "0:483",
+        "text": "Filter"
+      },
+      {
+        "id": "0:481",
+        "text": "No filters applied"
+      },
+      {
+        "id": "0:486",
+        "text": "93 Products"
+      },
+      {
+        "id": "0:487",
+        "text": "Google"
+      },
+      {
+        "id": "0:489",
+        "text": "124 Products"
+      },
+      {
+        "id": "0:490",
+        "text": "Beats"
+      }
+    ]
+  },
+  {
+    "id": "0:603",
+    "name": "Categories - B&O",
+    "texts": [
+      {
+        "id": "0:613",
+        "text": "See all"
+      },
+      {
+        "id": "0:614",
+        "text": "New Launches"
+      },
+      {
+        "id": "0:632",
+        "text": "New"
+      },
+      {
+        "id": "0:634",
+        "text": "New"
+      },
+      {
+        "id": "0:622",
+        "text": "$450"
+      },
+      {
+        "id": "0:623",
+        "text": "Bang and Olufsen"
+      },
+      {
+        "id": "0:624",
+        "text": "B&o Phone Case"
+      },
+      {
+        "id": "0:626",
+        "text": "$755"
+      },
+      {
+        "id": "0:627",
+        "text": "Bang and Olufsen"
+      },
+      {
+        "id": "0:628",
+        "text": "Stand Speaker"
+      },
+      {
+        "id": "0:646",
+        "text": "Filter"
+      },
+      {
+        "id": "0:644",
+        "text": "No filters applied"
+      },
+      {
+        "id": "0:647",
+        "text": "B&o"
+      },
+      {
+        "id": "0:655",
+        "text": "New"
+      },
+      {
+        "id": "0:656",
+        "text": "Microphones"
+      },
+      {
+        "id": "0:657",
+        "text": "Speakers"
+      },
+      {
+        "id": "0:658",
+        "text": "Headphones"
+      },
+      {
+        "id": "0:659",
+        "text": "All"
+      }
+    ]
+  },
+  {
+    "id": "0:750",
+    "name": "Categories - Filter",
+    "texts": [
+      {
+        "id": "0:758",
+        "text": "Microphones"
+      },
+      {
+        "id": "0:759",
+        "text": "Speakers"
+      },
+      {
+        "id": "0:760",
+        "text": "Headphones"
+      },
+      {
+        "id": "0:761",
+        "text": "All"
+      },
+      {
+        "id": "0:766",
+        "text": "See all"
+      },
+      {
+        "id": "0:767",
+        "text": "New Launches"
+      },
+      {
+        "id": "0:785",
+        "text": "New"
+      },
+      {
+        "id": "0:787",
+        "text": "New"
+      },
+      {
+        "id": "0:775",
+        "text": "$450"
+      },
+      {
+        "id": "0:776",
+        "text": "Bang and Olufsen"
+      },
+      {
+        "id": "0:777",
+        "text": "B&o Phone Case"
+      },
+      {
+        "id": "0:779",
+        "text": "$755"
+      },
+      {
+        "id": "0:780",
+        "text": "Bang and Olufsen"
+      },
+      {
+        "id": "0:781",
+        "text": "Stand Speaker"
+      },
+      {
+        "id": "0:792",
+        "text": "Filter"
+      },
+      {
+        "id": "0:790",
+        "text": "No filters applied"
+      },
+      {
+        "id": "0:794",
+        "text": "New"
+      },
+      {
+        "id": "0:807",
+        "text": "B&o"
+      },
+      {
+        "id": "0:815",
+        "text": "Filter"
+      },
+      {
+        "id": "0:820",
+        "text": "No Setting"
+      },
+      {
+        "id": "0:821",
+        "text": "Shipped From"
+      },
+      {
+        "id": "0:823",
+        "text": "4 Star"
+      },
+      {
+        "id": "0:824",
+        "text": "Rating"
+      },
+      {
+        "id": "0:826",
+        "text": "No Setting"
+      },
+      {
+        "id": "0:827",
+        "text": "Color"
+      },
+      {
+        "id": "0:829",
+        "text": "$30 - $ 1200"
+      },
+      {
+        "id": "0:830",
+        "text": "Price"
+      },
+      {
+        "id": "0:832",
+        "text": "Apple, Samsung, Huawei, B&o "
+      },
+      {
+        "id": "0:833",
+        "text": "Brands"
+      },
+      {
+        "id": "0:835",
+        "text": "No Setting"
+      },
+      {
+        "id": "0:836",
+        "text": "Popularity"
+      },
+      {
+        "id": "0:844",
+        "text": "Apply"
+      },
+      {
+        "id": "0:818",
+        "text": "Clear"
+      }
+    ]
+  },
+  {
+    "id": "0:964",
+    "name": "Categories - Filter 2",
+    "texts": [
+      {
+        "id": "0:972",
+        "text": "Microphones"
+      },
+      {
+        "id": "0:973",
+        "text": "Speakers"
+      },
+      {
+        "id": "0:974",
+        "text": "Headphones"
+      },
+      {
+        "id": "0:975",
+        "text": "All"
+      },
+      {
+        "id": "0:980",
+        "text": "See all"
+      },
+      {
+        "id": "0:981",
+        "text": "New Launches"
+      },
+      {
+        "id": "0:999",
+        "text": "New"
+      },
+      {
+        "id": "0:1001",
+        "text": "New"
+      },
+      {
+        "id": "0:989",
+        "text": "$450"
+      },
+      {
+        "id": "0:990",
+        "text": "Bang and Olufsen"
+      },
+      {
+        "id": "0:991",
+        "text": "B&o Phone Case"
+      },
+      {
+        "id": "0:993",
+        "text": "$755"
+      },
+      {
+        "id": "0:994",
+        "text": "Bang and Olufsen"
+      },
+      {
+        "id": "0:995",
+        "text": "Stand Speaker"
+      },
+      {
+        "id": "0:1006",
+        "text": "Filter"
+      },
+      {
+        "id": "0:1004",
+        "text": "No filters applied"
+      },
+      {
+        "id": "0:1008",
+        "text": "New"
+      },
+      {
+        "id": "0:1021",
+        "text": "B&o"
+      },
+      {
+        "id": "0:1029",
+        "text": "Filter"
+      },
+      {
+        "id": "0:1035",
+        "text": "Apply"
+      },
+      {
+        "id": "0:1033",
+        "text": "Clear"
+      },
+      {
+        "id": "0:1037",
+        "text": "No Setting"
+      },
+      {
+        "id": "0:1038",
+        "text": "Shipped From"
+      },
+      {
+        "id": "0:1040",
+        "text": "4 Star"
+      },
+      {
+        "id": "0:1041",
+        "text": "Rating"
+      },
+      {
+        "id": "0:1043",
+        "text": "Apple, Samsung, Huawei, B&o "
+      },
+      {
+        "id": "0:1044",
+        "text": "Brands"
+      },
+      {
+        "id": "0:1046",
+        "text": "No Setting"
+      },
+      {
+        "id": "0:1047",
+        "text": "Popularity"
+      },
+      {
+        "id": "0:1049",
+        "text": "Price"
+      },
+      {
+        "id": "0:1074",
+        "text": "$1200"
+      },
+      {
+        "id": "0:1077",
+        "text": "$120"
+      },
+      {
+        "id": "0:1056",
+        "text": "Color"
+      }
+    ]
+  },
+  {
+    "id": "0:1216",
+    "name": "Search",
+    "texts": [
+      {
+        "id": "0:1232",
+        "text": "$450"
+      },
+      {
+        "id": "0:1233",
+        "text": "Tag Heuer"
+      },
+      {
+        "id": "0:1234",
+        "text": "Leather Wristwatch"
+      },
+      {
+        "id": "0:1237",
+        "text": "$755"
+      },
+      {
+        "id": "0:1238",
+        "text": "Bang and Olufsen"
+      },
+      {
+        "id": "0:1239",
+        "text": "BeoPlay Speaker"
+      },
+      {
+        "id": "0:1241",
+        "text": "See all"
+      },
+      {
+        "id": "0:1242",
+        "text": "Recent Searches"
+      },
+      {
+        "id": "0:1250",
+        "text": "Search for anything..."
+      },
+      {
+        "id": "0:1257",
+        "text": "Sport wears"
+      },
+      {
+        "id": "0:1259",
+        "text": "Shoes"
+      },
+      {
+        "id": "0:1261",
+        "text": "Apple"
+      },
+      {
+        "id": "0:1263",
+        "text": "Mackbook"
+      },
+      {
+        "id": "0:1265",
+        "text": "Bang and Olufsen"
+      },
+      {
+        "id": "0:1267",
+        "text": "Caps"
+      },
+      {
+        "id": "0:1269",
+        "text": "Sport wears"
+      },
+      {
+        "id": "0:1271",
+        "text": "Shoes"
+      },
+      {
+        "id": "0:1229",
+        "text": "Recent Searches"
+      }
+    ]
+  },
+  {
+    "id": "0:1350",
+    "name": "Search 2 ",
+    "texts": [
+      {
+        "id": "0:1358",
+        "text": "$450"
+      },
+      {
+        "id": "0:1359",
+        "text": "Tag Heuer"
+      },
+      {
+        "id": "0:1360",
+        "text": "Leather Wristwatch"
+      },
+      {
+        "id": "0:1363",
+        "text": "$755"
+      },
+      {
+        "id": "0:1364",
+        "text": "Bang and Olufsen"
+      },
+      {
+        "id": "0:1365",
+        "text": "BeoPlay Speaker"
+      },
+      {
+        "id": "0:1367",
+        "text": "See all"
+      },
+      {
+        "id": "0:1368",
+        "text": "Recent Searches"
+      },
+      {
+        "id": "0:1376",
+        "text": "iPhon"
+      },
+      {
+        "id": "0:1382",
+        "text": "iPhone X 64GB"
+      },
+      {
+        "id": "0:1383",
+        "text": "iPhone Xs Max 128GB"
+      },
+      {
+        "id": "0:1384",
+        "text": "iPhone Xr  Black 256GB"
+      },
+      {
+        "id": "0:1385",
+        "text": "iPhone X 256GB"
+      },
+      {
+        "id": "0:1386",
+        "text": "iPhone XS"
+      },
+      {
+        "id": "0:1387",
+        "text": "iPhone Xs Max"
+      }
+    ]
+  },
+  {
+    "id": "0:1448",
+    "name": "Image Search",
+    "texts": [
+      {
+        "id": "0:1453",
+        "text": "SCANNING"
+      }
+    ]
+  },
+  {
+    "id": "0:1554",
+    "name": "Image Search  Result",
+    "texts": [
+      {
+        "id": "0:1589",
+        "text": "$450"
+      },
+      {
+        "id": "0:1591",
+        "text": "Beats"
+      },
+      {
+        "id": "0:1593",
+        "text": "Beats by Dre "
+      },
+      {
+        "id": "0:1597",
+        "text": "$755"
+      },
+      {
+        "id": "0:1599",
+        "text": "Beats"
+      },
+      {
+        "id": "0:1601",
+        "text": "Beats by Dre"
+      },
+      {
+        "id": "0:1561",
+        "text": "15 Items found"
+      }
+    ]
+  },
+  {
+    "id": "0:1660",
+    "name": "Image Search  Result – 1",
+    "texts": [
+      {
+        "id": "0:1692",
+        "text": "$450"
+      },
+      {
+        "id": "0:1694",
+        "text": "Beats"
+      },
+      {
+        "id": "0:1696",
+        "text": "Beats by Dre "
+      },
+      {
+        "id": "0:1701",
+        "text": "$755"
+      },
+      {
+        "id": "0:1703",
+        "text": "Beats"
+      },
+      {
+        "id": "0:1704",
+        "text": "Beats by Dre"
+      },
+      {
+        "id": "0:1705",
+        "text": "Beats by Dre "
+      }
+    ]
+  },
+  {
+    "id": "0:1760",
+    "name": "Item 360",
+    "texts": [
+      {
+        "id": "0:1763",
+        "text": "Read More..."
+      },
+      {
+        "id": "0:1764",
+        "text": "Nike Dri-FIT Long Sleeve"
+      },
+      {
+        "id": "0:1765",
+        "text": "Details"
+      },
+      {
+        "id": "0:1766",
+        "text": "Nike Dri-FIT is a polyester fabric designed to help you keep dry so you can more comfortably work harder, longer."
+      },
+      {
+        "id": "0:1776",
+        "text": "Colour"
+      },
+      {
+        "id": "0:1784",
+        "text": "XL"
+      },
+      {
+        "id": "0:1785",
+        "text": "Size"
+      },
+      {
+        "id": "0:1791",
+        "text": "Add to Cart"
+      },
+      {
+        "id": "0:1789",
+        "text": "$150.00"
+      }
+    ]
+  },
+  {
+    "id": "0:1824",
+    "name": "Item 360 – Scroll",
+    "texts": [
+      {
+        "id": "0:1827",
+        "text": "Nike Dri-FIT Long Sleeve"
+      },
+      {
+        "id": "0:1834",
+        "text": "Read More..."
+      },
+      {
+        "id": "0:1835",
+        "text": "Details"
+      },
+      {
+        "id": "0:1836",
+        "text": "Nike Dri-FIT is a polyester fabric designed to help you keep dry so you can more comfortably work harder, longer."
+      },
+      {
+        "id": "0:1843",
+        "text": "Colour"
+      },
+      {
+        "id": "0:1851",
+        "text": "XL"
+      },
+      {
+        "id": "0:1852",
+        "text": "Size"
+      },
+      {
+        "id": "0:1854",
+        "text": "I love this, paired it with a nice blouse and all eyes on me."
+      },
+      {
+        "id": "0:1855",
+        "text": "Beth Aida"
+      },
+      {
+        "id": "0:1857",
+        "text": "Wonderful jean, perfect gift for my girl for our anniversary!"
+      },
+      {
+        "id": "0:1860",
+        "text": "Samuel Smith"
+      },
+      {
+        "id": "0:1882",
+        "text": "Write your review"
+      },
+      {
+        "id": "0:1883",
+        "text": "Reviews"
+      },
+      {
+        "id": "0:1888",
+        "text": "Add to Cart"
+      },
+      {
+        "id": "0:1886",
+        "text": "$150.00"
+      }
+    ]
+  },
+  {
+    "id": "0:1954",
+    "name": "Cart",
+    "texts": [
+      {
+        "id": "0:1978",
+        "text": "Cart"
+      },
+      {
+        "id": "0:1992",
+        "text": "Items in Cart"
+      },
+      {
+        "id": "0:1994",
+        "text": "Checkout"
+      },
+      {
+        "id": "0:1959",
+        "text": "Total  :  $4,000"
+      },
+      {
+        "id": "0:1999",
+        "text": "APPLY"
+      },
+      {
+        "id": "0:1997",
+        "text": "Enter Voucher Code"
+      },
+      {
+        "id": "0:1961",
+        "text": "$50"
+      },
+      {
+        "id": "0:1962",
+        "text": "Tax"
+      },
+      {
+        "id": "0:1963",
+        "text": "$3950"
+      },
+      {
+        "id": "0:1965",
+        "text": "Sub Total"
+      },
+      {
+        "id": "0:2011",
+        "text": "$95"
+      },
+      {
+        "id": "0:2012",
+        "text": "Smart Home Speaker"
+      },
+      {
+        "id": "0:2016",
+        "text": "3"
+      },
+      {
+        "id": "0:2023",
+        "text": "$120"
+      },
+      {
+        "id": "0:2024",
+        "text": "Bang & Olufsen Case"
+      },
+      {
+        "id": "0:2028",
+        "text": "1"
+      },
+      {
+        "id": "0:2035",
+        "text": "$95"
+      },
+      {
+        "id": "0:2036",
+        "text": "Electric Kettle"
+      },
+      {
+        "id": "0:2040",
+        "text": "1"
+      },
+      {
+        "id": "0:2047",
+        "text": "$450"
+      },
+      {
+        "id": "0:2048",
+        "text": "BeoPlay Speaker"
+      },
+      {
+        "id": "0:2052",
+        "text": "2"
+      },
+      {
+        "id": "0:2059",
+        "text": "$1100"
+      },
+      {
+        "id": "0:2060",
+        "text": "Tag Heuer Wristwatch"
+      },
+      {
+        "id": "0:2064",
+        "text": "3"
+      }
+    ]
+  },
+  {
+    "id": "0:2209",
+    "name": "Checkout - Delivery",
+    "texts": [
+      {
+        "id": "0:2221",
+        "text": "Checkout"
+      },
+      {
+        "id": "0:2226",
+        "text": "Payments"
+      },
+      {
+        "id": "0:2228",
+        "text": "Address"
+      },
+      {
+        "id": "0:2230",
+        "text": "Delivery"
+      },
+      {
+        "id": "0:2240",
+        "text": "Continue"
+      },
+      {
+        "id": "0:2238",
+        "text": "Standard Delivery Selected"
+      },
+      {
+        "id": "0:2249",
+        "text": "Pick a particular date from the calendar and order will be delivered on selected "
+      },
+      {
+        "id": "0:2250",
+        "text": "Nominated Delivery"
+      },
+      {
+        "id": "0:2254",
+        "text": "Place your order before 6pm and your items will be delivered the next day"
+      },
+      {
+        "id": "0:2255",
+        "text": "Next Day Delivery"
+      },
+      {
+        "id": "0:2259",
+        "text": "Order will be delivered between 3 - 5 business days"
+      },
+      {
+        "id": "0:2260",
+        "text": "Standard Delivery"
+      }
+    ]
+  },
+  {
+    "id": "0:2415",
+    "name": "Checkout - Address",
+    "texts": [
+      {
+        "id": "0:2434",
+        "text": "Checkout"
+      },
+      {
+        "id": "0:2439",
+        "text": "Payments"
+      },
+      {
+        "id": "0:2441",
+        "text": "Address"
+      },
+      {
+        "id": "0:2442",
+        "text": "Delivery"
+      },
+      {
+        "id": "0:2455",
+        "text": "Continue"
+      },
+      {
+        "id": "0:2452",
+        "text": "Save this Address"
+      },
+      {
+        "id": "0:2459",
+        "text": "Billing address is the same as delivery address."
+      },
+      {
+        "id": "0:2465",
+        "text": "21, Alex Davidson Avenue"
+      },
+      {
+        "id": "0:2466",
+        "text": "Street 1"
+      },
+      {
+        "id": "0:2468",
+        "text": "Opposite Omegatron, Vicent Quarters"
+      },
+      {
+        "id": "0:2469",
+        "text": "Street 2"
+      },
+      {
+        "id": "0:2471",
+        "text": "Victoria Island"
+      },
+      {
+        "id": "0:2472",
+        "text": "City"
+      },
+      {
+        "id": "0:2474",
+        "text": "Lagos State"
+      },
+      {
+        "id": "0:2475",
+        "text": "State"
+      },
+      {
+        "id": "0:2477",
+        "text": "Nigeria"
+      },
+      {
+        "id": "0:2478",
+        "text": "Country"
+      }
+    ]
+  },
+  {
+    "id": "0:2681",
+    "name": "Checkout - Payment",
+    "texts": [
+      {
+        "id": "0:2701",
+        "text": "Checkout"
+      },
+      {
+        "id": "0:2706",
+        "text": "Payments"
+      },
+      {
+        "id": "0:2707",
+        "text": "Address"
+      },
+      {
+        "id": "0:2708",
+        "text": "Delivery"
+      },
+      {
+        "id": "0:2723",
+        "text": "Continue"
+      },
+      {
+        "id": "0:2720",
+        "text": "Save Card Details"
+      },
+      {
+        "id": "0:2741",
+        "text": "Johnathan Smith"
+      },
+      {
+        "id": "0:2742",
+        "text": "Name On Card"
+      },
+      {
+        "id": "0:2744",
+        "text": "5623 4587 9658 4521"
+      },
+      {
+        "id": "0:2745",
+        "text": "Card Number"
+      },
+      {
+        "id": "0:2751",
+        "text": "12/24"
+      },
+      {
+        "id": "0:2752",
+        "text": "Exp Date"
+      },
+      {
+        "id": "0:2754",
+        "text": "***"
+      },
+      {
+        "id": "0:2755",
+        "text": "CVV"
+      }
+    ]
+  },
+  {
+    "id": "0:2848",
+    "name": "Checkout - Summary",
+    "texts": [
+      {
+        "id": "0:2867",
+        "text": "Checkout"
+      },
+      {
+        "id": "0:2873",
+        "text": "PAY NOW"
+      },
+      {
+        "id": "0:2871",
+        "text": "Back"
+      },
+      {
+        "id": "0:2880",
+        "text": "$95"
+      },
+      {
+        "id": "0:2881",
+        "text": "Electric Kettle"
+      },
+      {
+        "id": "0:2885",
+        "text": "$1100"
+      },
+      {
+        "id": "0:2886",
+        "text": "Tag Heuer ..."
+      },
+      {
+        "id": "0:2888",
+        "text": "$450"
+      },
+      {
+        "id": "0:2889",
+        "text": "BeoPlay Spea..."
+      },
+      {
+        "id": "0:2890",
+        "text": "Shipping Address"
+      },
+      {
+        "id": "0:2891",
+        "text": "Payment"
+      },
+      {
+        "id": "0:2856",
+        "text": "Change"
+      },
+      {
+        "id": "0:2857",
+        "text": "Change"
+      },
+      {
+        "id": "0:2858",
+        "text": "21, Alex Davidson Avenue, Opposite Omegatron, Vicent Smith Quarters, Victoria Island, Lagos, Nigeria"
+      },
+      {
+        "id": "0:2893",
+        "text": "****  ****  ****  4543"
+      },
+      {
+        "id": "0:2894",
+        "text": "Master Card"
+      }
+    ]
+  },
+  {
+    "id": "0:2899",
+    "name": "Profile",
+    "texts": [
+      {
+        "id": "0:2903",
+        "text": "David Spade"
+      },
+      {
+        "id": "0:2904",
+        "text": "iamdavid@gmail.com"
+      },
+      {
+        "id": "0:2912",
+        "text": "Log Out"
+      },
+      {
+        "id": "0:2916",
+        "text": "Notifications"
+      },
+      {
+        "id": "0:2920",
+        "text": "Cards"
+      },
+      {
+        "id": "0:2924",
+        "text": "Track Order"
+      },
+      {
+        "id": "0:2928",
+        "text": "Order History"
+      },
+      {
+        "id": "0:2932",
+        "text": "Wishlist"
+      },
+      {
+        "id": "0:2936",
+        "text": "Shipping Address"
+      },
+      {
+        "id": "0:2940",
+        "text": "Edit Profile"
+      },
+      {
+        "id": "0:2971",
+        "text": "New"
+      },
+      {
+        "id": "0:2984",
+        "text": "Profile"
+      }
+    ]
+  },
+  {
+    "id": "0:2993",
+    "name": "Orders",
+    "texts": [
+      {
+        "id": "0:2997",
+        "text": "Sept 23, 2018"
+      },
+      {
+        "id": "0:2998",
+        "text": "Sept 23, 2018"
+      },
+      {
+        "id": "0:3032",
+        "text": "In Transit"
+      },
+      {
+        "id": "0:3034",
+        "text": "+4"
+      },
+      {
+        "id": "0:3008",
+        "text": "$4500"
+      },
+      {
+        "id": "0:3009",
+        "text": "OD - 424923192 - N"
+      },
+      {
+        "id": "0:3036",
+        "text": "Delivered"
+      },
+      {
+        "id": "0:3038",
+        "text": "Delivered"
+      },
+      {
+        "id": "0:3040",
+        "text": "Delivered"
+      },
+      {
+        "id": "0:3042",
+        "text": "+4"
+      },
+      {
+        "id": "0:3017",
+        "text": "$700"
+      },
+      {
+        "id": "0:3018",
+        "text": "$700"
+      },
+      {
+        "id": "0:3019",
+        "text": "$700"
+      },
+      {
+        "id": "0:3020",
+        "text": "OD - 424923192 - N"
+      },
+      {
+        "id": "0:3021",
+        "text": "OD - 424923192 - N"
+      },
+      {
+        "id": "0:3022",
+        "text": "OD - 424923192 - N"
+      },
+      {
+        "id": "0:3044",
+        "text": "+4"
+      },
+      {
+        "id": "0:3046",
+        "text": "+4"
+      },
+      {
+        "id": "0:3059",
+        "text": "Profile"
+      },
+      {
+        "id": "0:3075",
+        "text": "My Orders"
+      }
+    ]
+  },
+  {
+    "id": "0:3185",
+    "name": "Track Order",
+    "texts": [
+      {
+        "id": "0:3192",
+        "text": "OD - 424923192 - N"
+      },
+      {
+        "id": "0:3200",
+        "text": "Edo State, Nigeria"
+      },
+      {
+        "id": "0:3201",
+        "text": "Delivered"
+      },
+      {
+        "id": "0:3203",
+        "text": "Edo State, Nigeria"
+      },
+      {
+        "id": "0:3204",
+        "text": "Out for delivery"
+      },
+      {
+        "id": "0:3206",
+        "text": "Lagos State, Nigeria"
+      },
+      {
+        "id": "0:3207",
+        "text": "Shipped "
+      },
+      {
+        "id": "0:3209",
+        "text": "10:00 AM"
+      },
+      {
+        "id": "0:3210",
+        "text": "21/18"
+      },
+      {
+        "id": "0:3211",
+        "text": "Lagos State, Nigeria"
+      },
+      {
+        "id": "0:3212",
+        "text": "Order Processed"
+      },
+      {
+        "id": "0:3214",
+        "text": "10:00 AM"
+      },
+      {
+        "id": "0:3215",
+        "text": "20/18"
+      },
+      {
+        "id": "0:3216",
+        "text": "Lagos State, Nigeria"
+      },
+      {
+        "id": "0:3217",
+        "text": "Order Placed"
+      },
+      {
+        "id": "0:3219",
+        "text": "10:00 AM"
+      },
+      {
+        "id": "0:3220",
+        "text": "20/18"
+      }
+    ]
+  },
+  {
+    "id": "0:3296",
+    "name": "Track Order – Map",
+    "texts": [
+      {
+        "id": "0:3306",
+        "text": "OD - 424923192 - N"
+      },
+      {
+        "id": "0:3321",
+        "text": "Federal Express"
+      },
+      {
+        "id": "0:3325",
+        "text": "Lagos State, Nigeria"
+      },
+      {
+        "id": "0:3326",
+        "text": "Shipped "
+      }
+    ]
+  },
+  {
+    "id": "0:3383",
+    "name": "Cards",
+    "texts": [
+      {
+        "id": "0:3401",
+        "text": "Profile"
+      },
+      {
+        "id": "0:3417",
+        "text": "Saved Cards"
+      },
+      {
+        "id": "0:3432",
+        "text": "09-18"
+      },
+      {
+        "id": "0:3433",
+        "text": "Expiry"
+      },
+      {
+        "id": "0:3434",
+        "text": "David Spade"
+      },
+      {
+        "id": "0:3435",
+        "text": "Card Holder"
+      },
+      {
+        "id": "0:3425",
+        "text": "4543"
+      },
+      {
+        "id": "0:3426",
+        "text": "3224"
+      },
+      {
+        "id": "0:3427",
+        "text": "5674"
+      },
+      {
+        "id": "0:3428",
+        "text": "4560"
+      },
+      {
+        "id": "0:3450",
+        "text": "09-18"
+      },
+      {
+        "id": "0:3451",
+        "text": "Expiry"
+      },
+      {
+        "id": "0:3452",
+        "text": "David Spade"
+      },
+      {
+        "id": "0:3453",
+        "text": "Card Holder"
+      },
+      {
+        "id": "0:3443",
+        "text": "4543"
+      },
+      {
+        "id": "0:3444",
+        "text": "3224"
+      },
+      {
+        "id": "0:3445",
+        "text": "5674"
+      },
+      {
+        "id": "0:3446",
+        "text": "4560"
+      },
+      {
+        "id": "0:3458",
+        "text": "Add new Card"
+      }
+    ]
+  },
+  {
+    "id": "0:3558",
+    "name": "Add Card",
+    "texts": [
+      {
+        "id": "0:3560",
+        "text": "Add New Card"
+      },
+      {
+        "id": "0:3574",
+        "text": "Apply"
+      },
+      {
+        "id": "0:3563",
+        "text": "Clear"
+      },
+      {
+        "id": "0:3576",
+        "text": "Johnathan Smith"
+      },
+      {
+        "id": "0:3577",
+        "text": "Name On Card"
+      },
+      {
+        "id": "0:3579",
+        "text": "5623 4587 9658 4521"
+      },
+      {
+        "id": "0:3580",
+        "text": "Card Number"
+      },
+      {
+        "id": "0:3586",
+        "text": "12/24"
+      },
+      {
+        "id": "0:3587",
+        "text": "Exp Date"
+      },
+      {
+        "id": "0:3589",
+        "text": "***"
+      },
+      {
+        "id": "0:3590",
+        "text": "CVV"
+      },
+      {
+        "id": "0:3602",
+        "text": "09-18"
+      },
+      {
+        "id": "0:3603",
+        "text": "Expiry"
+      },
+      {
+        "id": "0:3604",
+        "text": "David Spade"
+      },
+      {
+        "id": "0:3605",
+        "text": "Card Holder"
+      },
+      {
+        "id": "0:3595",
+        "text": "4543"
+      },
+      {
+        "id": "0:3596",
+        "text": "3224"
+      },
+      {
+        "id": "0:3597",
+        "text": "5674"
+      },
+      {
+        "id": "0:3598",
+        "text": "4560"
+      }
+    ]
+  },
+  {
+    "id": "0:3682",
+    "name": "Shipping Address",
+    "texts": [
+      {
+        "id": "0:3684",
+        "text": "Shipping Address"
+      },
+      {
+        "id": "0:3703",
+        "text": "Add new Address"
+      },
+      {
+        "id": "0:3689",
+        "text": "19, Martins Crescent, Bank of Nigeria, Abuja, Nigeria"
+      },
+      {
+        "id": "0:3690",
+        "text": "Work Address"
+      },
+      {
+        "id": "0:3692",
+        "text": "21, Alex Davidson Avenue, Opposite Omegatron, Vicent Smith Quarters, Victoria Island, Lagos, Nigeria"
+      },
+      {
+        "id": "0:3693",
+        "text": "21, Alex Davidson Avenue, Opposite Omegatron, Vicent Smith Quarters, Victoria Island, Lagos, Nigeria"
+      },
+      {
+        "id": "0:3694",
+        "text": "Home Address 1"
+      },
+      {
+        "id": "0:3695",
+        "text": "Home Address 1"
+      }
+    ]
+  },
+  {
+    "id": "0:3758",
+    "name": "Wishlist",
+    "texts": [
+      {
+        "id": "0:3760",
+        "text": "Wishlist"
+      },
+      {
+        "id": "0:3764",
+        "text": "$95"
+      },
+      {
+        "id": "0:3765",
+        "text": "Smart Home Speaker"
+      },
+      {
+        "id": "0:3768",
+        "text": "$120"
+      },
+      {
+        "id": "0:3769",
+        "text": "Bang & Olufsen Case"
+      },
+      {
+        "id": "0:3772",
+        "text": "$95"
+      },
+      {
+        "id": "0:3773",
+        "text": "Electric Kettle"
+      },
+      {
+        "id": "0:3776",
+        "text": "$450"
+      },
+      {
+        "id": "0:3777",
+        "text": "BeoPlay Speaker"
+      },
+      {
+        "id": "0:3787",
+        "text": "In Stock"
+      },
+      {
+        "id": "0:3789",
+        "text": "In Stock"
+      },
+      {
+        "id": "0:3791",
+        "text": "In Stock"
+      },
+      {
+        "id": "0:3793",
+        "text": "Out of Stock"
+      }
+    ]
+  }
+]
